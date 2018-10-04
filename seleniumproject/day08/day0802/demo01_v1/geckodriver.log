@@ -1,0 +1,18 @@
+1510545938443	geckodriver	INFO	geckodriver 0.18.0
+1510545938462	geckodriver	INFO	Listening on 127.0.0.1:49161
+1510545940758	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1510545948393	Marionette	INFO	Listening on port 49167
+1510545948850	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510545958258	Marionette	INFO	New connections will no longer be accepted
+1510547841613	geckodriver	INFO	geckodriver 0.18.0
+1510547841620	geckodriver	INFO	Listening on 127.0.0.1:49252
+1510547843704	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1510547845994	Marionette	INFO	Listening on port 49258
+1510547846970	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510547851108	Marionette	INFO	Ceased listening
+1510552857558	geckodriver	INFO	geckodriver 0.18.0
+1510552857566	geckodriver	INFO	Listening on 127.0.0.1:49267
+1510552859652	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1510552862543	Marionette	INFO	Listening on port 49273
+1510552862954	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510552870328	Marionette	INFO	New connections will no longer be accepted

@@ -1,0 +1,25 @@
+def select_menu1(sid):
+    list1=list(range(0,12))
+    for i in list1:
+        if sid == str(i):
+            print("您输入的选择：",sid)
+            break
+    else:
+        print("选择错误！")
+
+
+def select_menu2(sid):
+    list1 = list(range(0, 12))
+    str1 = str(list1)
+    if sid in str1:
+        print("选择正确！")
+    else:
+        print("选择错误！")
+
+def select_menu3(sid):
+    sid=input(sid)
+    list1=list(range(0,12))
+    if sid in list1:
+        print("您输入的选择：",sid)
+    else:
+        print("选择错误！")

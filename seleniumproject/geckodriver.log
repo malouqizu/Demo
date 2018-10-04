@@ -1,0 +1,87 @@
+1506652434526	geckodriver	INFO	geckodriver 0.18.0
+1506652434534	geckodriver	INFO	Listening on 127.0.0.1:52601
+1506652436730	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1506652439583	Marionette	INFO	Listening on port 52607
+1506652440112	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=se&json=1&p=3&sid=1447_22534_21081_17001_22159&req=2&csor=2&pwd=s&cb=jQuery110206012986277096904_1506652441169&_=1506652441172, line 1: TypeError: jQuery110206012986277096904_1506652441169 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=s&json=1&p=3&sid=1447_22534_21081_17001_22159&req=2&csor=1&cb=jQuery110206012986277096904_1506652441169&_=1506652441171, line 1: TypeError: jQuery110206012986277096904_1506652441169 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleniu&json=1&p=3&sid=1447_22534_21081_17001_22159&req=2&csor=7&pwd=seleni&cb=jQuery110206012986277096904_1506652441169&_=1506652441177, line 1: TypeError: jQuery110206012986277096904_1506652441169 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sel&json=1&p=3&sid=1447_22534_21081_17001_22159&req=2&csor=3&pwd=se&cb=jQuery110206012986277096904_1506652441169&_=1506652441173, line 1: TypeError: jQuery110206012986277096904_1506652441169 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sele&json=1&p=3&sid=1447_22534_21081_17001_22159&req=2&csor=4&pwd=sel&cb=jQuery110206012986277096904_1506652441169&_=1506652441174, line 1: TypeError: jQuery110206012986277096904_1506652441169 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenium&json=1&p=3&sid=1447_22534_21081_17001_22159&req=2&csor=8&pwd=seleniu&cb=jQuery110206012986277096904_1506652441169&_=1506652441178, line 1: TypeError: jQuery110206012986277096904_1506652441169 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenium2&json=1&p=3&sid=1447_22534_21081_17001_22159&req=2&csor=9&pwd=selenium&cb=jQuery110206012986277096904_1506652441169&_=1506652441179, line 1: TypeError: jQuery110206012986277096904_1506652441169 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selen&json=1&p=3&sid=1447_22534_21081_17001_22159&req=2&csor=5&pwd=sele&cb=jQuery110206012986277096904_1506652441169&_=1506652441175, line 1: TypeError: jQuery110206012986277096904_1506652441169 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleni&json=1&p=3&sid=1447_22534_21081_17001_22159&req=2&csor=6&pwd=selen&cb=jQuery110206012986277096904_1506652441169&_=1506652441176, line 1: TypeError: jQuery110206012986277096904_1506652441169 is not a function
+1506652462641	Marionette	INFO	Ceased listening
+1506652466106	geckodriver	INFO	geckodriver 0.18.0
+1506652466114	geckodriver	INFO	Listening on 127.0.0.1:52669
+1506652468144	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1506652471573	Marionette	INFO	Listening on port 52675
+1506652471969	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selen&json=1&p=3&sid=1465_21086_22072&req=2&csor=5&pwd=sele&cb=jQuery11020933915020784628_1506652473805&_=1506652473811, line 1: TypeError: jQuery11020933915020784628_1506652473805 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sel&json=1&p=3&sid=1465_21086_22072&req=2&csor=3&pwd=se&cb=jQuery11020933915020784628_1506652473805&_=1506652473809, line 1: TypeError: jQuery11020933915020784628_1506652473805 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleniu&json=1&p=3&sid=1465_21086_22072&req=2&csor=7&pwd=seleni&cb=jQuery11020933915020784628_1506652473805&_=1506652473813, line 1: TypeError: jQuery11020933915020784628_1506652473805 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenium&json=1&p=3&sid=1465_21086_22072&req=2&csor=8&pwd=seleniu&cb=jQuery11020933915020784628_1506652473805&_=1506652473814, line 1: TypeError: jQuery11020933915020784628_1506652473805 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenium2&json=1&p=3&sid=1465_21086_22072&req=2&csor=9&pwd=selenium&cb=jQuery11020933915020784628_1506652473805&_=1506652473815, line 1: TypeError: jQuery11020933915020784628_1506652473805 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=s&json=1&p=3&sid=1465_21086_22072&req=2&csor=1&cb=jQuery11020933915020784628_1506652473805&_=1506652473807, line 1: TypeError: jQuery11020933915020784628_1506652473805 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sele&json=1&p=3&sid=1465_21086_22072&req=2&csor=4&pwd=sel&cb=jQuery11020933915020784628_1506652473805&_=1506652473810, line 1: TypeError: jQuery11020933915020784628_1506652473805 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleni&json=1&p=3&sid=1465_21086_22072&req=2&csor=6&pwd=selen&cb=jQuery11020933915020784628_1506652473805&_=1506652473812, line 1: TypeError: jQuery11020933915020784628_1506652473805 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=se&json=1&p=3&sid=1465_21086_22072&req=2&csor=2&pwd=s&cb=jQuery11020933915020784628_1506652473805&_=1506652473808, line 1: TypeError: jQuery11020933915020784628_1506652473805 is not a function
+1506652483571	Marionette	INFO	Ceased listening
+1506652852252	geckodriver	INFO	geckodriver 0.18.0
+1506652852257	geckodriver	INFO	Listening on 127.0.0.1:52768
+1506652854286	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1506652857114	Marionette	INFO	Listening on port 52774
+1506652857881	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506652864579	Marionette	INFO	Ceased listening
+1506653015238	geckodriver	INFO	geckodriver 0.18.0
+1506653015244	geckodriver	INFO	Listening on 127.0.0.1:52782
+1506653017272	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1506653019873	Marionette	INFO	Listening on port 52788
+1506653020976	Marionette	WARN	TLS certificate errors will be ignored for this session
+1506653091504	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1506653103533	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1506653115554	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1506655326054	Marionette	INFO	Ceased listening
+1507599322823	geckodriver	INFO	geckodriver 0.18.0
+1507599322831	geckodriver	INFO	Listening on 127.0.0.1:49162
+1507599325077	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1507599332459	Marionette	INFO	Listening on port 49168
+1507599332663	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507599337195	Marionette	INFO	Ceased listening
+1514034282238	geckodriver	INFO	geckodriver 0.18.0
+1514034282248	geckodriver	INFO	Listening on 127.0.0.1:54609
+1514034284445	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1514034289638	Marionette	INFO	Listening on port 54615
+1514034290100	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1514034320490	Marionette	INFO	Ceased listening
+1521793132266	geckodriver	INFO	geckodriver 0.18.0
+1521793132299	geckodriver	INFO	Listening on 127.0.0.1:64582
+1521793134436	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1521793143680	Marionette	INFO	Listening on port 64588
+1521793144484	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521793154288	Marionette	INFO	Ceased listening
+1521793166473	geckodriver	INFO	geckodriver 0.18.0
+1521793166489	geckodriver	INFO	Listening on 127.0.0.1:64680
+1521793168603	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1521793174003	Marionette	INFO	Listening on port 64686
+1521793174577	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521793186858	geckodriver	INFO	geckodriver 0.18.0
+1521793186876	geckodriver	INFO	Listening on 127.0.0.1:64746
+1521793189019	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1521793194988	Marionette	INFO	Listening on port 64752
+1521793195482	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521793217957	Marionette	INFO	Ceased listening
+1521793276363	geckodriver	INFO	geckodriver 0.18.0
+1521793276380	geckodriver	INFO	Listening on 127.0.0.1:64840
+1521793278512	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1521793284206	Marionette	INFO	Listening on port 64846
+1521793284662	Marionette	WARN	TLS certificate errors will be ignored for this session
+1521793330496	Marionette	INFO	Ceased listening

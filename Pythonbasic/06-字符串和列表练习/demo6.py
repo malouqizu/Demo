@@ -1,0 +1,105 @@
+#编写一个Python程序，演示各种字符串函数和字符串操作
+'''
+print('In this line we display the double quotes ""')
+print("In this line we display the signal quotes ''")
+str1="Python program "
+str2='String opreations'
+print("length of the strings:str1 and str2:",len(str1),len(str2))
+print("length of the strings:str1 and str2:",len(str1),len(str2))
+print("First occurrences of o in str1 is ",str1.index("o"))
+print("First occurrences of o in str2 is ",str2.index("o"))
+print("Number of o occurrences in str1 is ",str1.count("o"))
+print("Number of o occurrences in str2 is ",str2.count("o"))
+print("str1 string slice operations:")
+print(str1[2:9])
+print(str1[2:9:2])
+print(str1[2:7])
+print(str1[2:9:1])
+print(str1[::-1]) #可以用来对字符串进行反转操作
+print("str2 string slice operations:")
+print(str2[1:6])
+print(str2[2:8:2])
+print(str2[2:8])
+print(str2[2:8:1])
+print(str2[::-1])
+print("Strings str1 and str2 in upper case:")
+print(str1.upper())
+print(str2.upper())
+print("Strings str1 and str2 in lower case:")
+print(str1.lower())
+print(str2.lower())
+print("Strings str1 and str2 start with:")
+print(str1.startswith("Python "))
+print(str1.startswith("hello"))
+print(str2.startswith("Str "))
+print(str2.startswith("program"))
+str1="Python program "
+str2='String opreations'
+print("Strings str1 and str2 end with:")
+print(str1.endswith("gram "))
+print(str1.endswith("ahojaop"))
+print(str2.endswith("ions"))
+print(str2.endswith("ing "))
+print("str1 and str2 split operations:")
+print(str1.split(" "))
+print(str2.split(" "))
+print("Stings str1 and str2 connections:")
+print(str1+str2)
+'''
+str1="python program java programming!"
+print(str1.capitalize())
+print(str1.center(50,"*"))
+print(str1.count("pr",0,len(str1)))
+print(str1.count("pr",20,len(str1)))
+print(str1.count("pr",50,len(str1)))
+#print(str1.encode("utf-8",'strict'))
+print(str1.endswith("ing"))
+print(str1.endswith("ing!"))
+#print(str1.expandtabs(tabsize=8))
+print(str1.find("pro",0,len(str1)))
+print(str1.find("pyt",10,len(str1)))
+print(str1.find("pjjj",0,len(str1)))
+str1="python program java programming!"
+print(str1.index("pro",0,len(str1)))
+try:
+    print(str1.index("p",0,len(str1)))
+except ValueError:
+    print("没有找到相应的字符串！")
+else:
+    print("找到相应的字符串！")
+str3="123445"
+str1="pythonprogramjavaprogramming"
+print(str1.isalnum())
+print(str1.isalpha())
+print(str1.isdigit())
+print(str1.isnumeric())
+print(str1.islower())
+print(str1.isupper())
+print(str1.isspace())
+print(str1.istitle())
+print("@".join(['q','w','r']))
+str1="pythonprogramjavaprogramming"
+print(len(str1))
+print(str1.ljust(45,"*"))
+print(str1.lstrip())
+print(max(str1))
+print(min(str1))
+print(str1.replace('p','l',2))
+print(len(str1))
+print(str1.rfind('o',15,len(str1)))
+print(str1.rfind('o',10,len(str1)))
+print(str1.rjust(40,"*"))
+str1="pytho program java programming QQQQ"
+print(str1.split("o",str1.count('o')))
+print(str1.strip())
+print(str1.swapcase())
+print(str1.title())
+#print(str1.translate())
+print(str1.upper())
+print(str1.zfill(40))
+str1="6.7"
+print(str1.isdecimal())
+print("hlm")
+
+str="John is good student"
+print(str.split(' ',2))

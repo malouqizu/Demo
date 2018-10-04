@@ -1,0 +1,429 @@
+1507618381545	geckodriver	INFO	geckodriver 0.18.0
+1507618381552	geckodriver	INFO	Listening on 127.0.0.1:49194
+1507618383584	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1507618386697	Marionette	INFO	Listening on port 49200
+1507618386935	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507618397242	Marionette	INFO	Ceased listening
+1507620531303	geckodriver	INFO	geckodriver 0.18.0
+1507620531310	geckodriver	INFO	Listening on 127.0.0.1:49230
+1507620533348	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1507620536477	Marionette	INFO	Listening on port 49236
+1507620536685	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507620607850	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1507620619862	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1507620631871	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1507621573815	Marionette	INFO	Ceased listening
+1507629222737	geckodriver	INFO	geckodriver 0.18.0
+1507629222800	geckodriver	INFO	Listening on 127.0.0.1:49163
+1507629225067	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1507629228870	Marionette	INFO	Listening on port 49169
+1507629229369	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507629242890	Marionette	INFO	Ceased listening
+1507629418942	geckodriver	INFO	geckodriver 0.18.0
+1507629418948	geckodriver	INFO	Listening on 127.0.0.1:49183
+1507629420980	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1507629423803	Marionette	INFO	Listening on port 49189
+1507629424348	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507629427044	Marionette	INFO	New connections will no longer be accepted
+1507629471307	geckodriver	INFO	geckodriver 0.18.0
+1507629471313	geckodriver	INFO	Listening on 127.0.0.1:49204
+1507629473349	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1507629476208	Marionette	INFO	Listening on port 49210
+1507629476564	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507629481229	Marionette	INFO	New connections will no longer be accepted
+1507705801177	geckodriver	INFO	geckodriver 0.18.0
+1507705801251	geckodriver	INFO	Listening on 127.0.0.1:49169
+1507705803403	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1507705806595	Marionette	INFO	Listening on port 49175
+1507705806992	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507705811649	Marionette	INFO	New connections will no longer be accepted
+1507706088768	geckodriver	INFO	geckodriver 0.18.0
+1507706088774	geckodriver	INFO	Listening on 127.0.0.1:49190
+1507706090805	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1507706093849	Marionette	INFO	Listening on port 49196
+1507706094282	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507706099205	Marionette	INFO	New connections will no longer be accepted
+1507707848236	geckodriver	INFO	geckodriver 0.18.0
+1507707848243	geckodriver	INFO	Listening on 127.0.0.1:49211
+1507707850270	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1507707853047	Marionette	INFO	Listening on port 49217
+1507707853521	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507707866950	Marionette	INFO	Ceased listening
+1507707923514	geckodriver	INFO	geckodriver 0.18.0
+1507707923521	geckodriver	INFO	Listening on 127.0.0.1:49238
+1507707925557	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1507707928493	Marionette	INFO	Listening on port 49244
+1507707928882	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507707945767	Marionette	INFO	Ceased listening
+1507708168822	geckodriver	INFO	geckodriver 0.18.0
+1507708168856	geckodriver	INFO	Listening on 127.0.0.1:49265
+1507708170885	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1507708174366	Marionette	INFO	Listening on port 49271
+1507708174694	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507708187001	Marionette	INFO	Ceased listening
+1507710232119	geckodriver	INFO	geckodriver 0.18.0
+1507710232125	geckodriver	INFO	Listening on 127.0.0.1:49296
+1507710234159	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1507710236621	Marionette	INFO	Listening on port 49302
+1507710237461	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507710246076	Marionette	INFO	Ceased listening
+1507710669050	geckodriver	INFO	geckodriver 0.18.0
+1507710669058	geckodriver	INFO	Listening on 127.0.0.1:49310
+1507710671087	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1507710673503	Marionette	INFO	Listening on port 49316
+1507710674362	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507710674737	Marionette	INFO	New connections will no longer be accepted
+1507710687915	geckodriver	INFO	geckodriver 0.18.0
+1507710687921	geckodriver	INFO	Listening on 127.0.0.1:49331
+1507710689969	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1507710692400	Marionette	INFO	Listening on port 49337
+1507710693288	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507710693916	Marionette	INFO	New connections will no longer be accepted
+1507710766204	geckodriver	INFO	geckodriver 0.18.0
+1507710766210	geckodriver	INFO	Listening on 127.0.0.1:49352
+1507710768245	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1507710771175	Marionette	INFO	Listening on port 49358
+1507710771681	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507710778153	Marionette	INFO	New connections will no longer be accepted
+1507710997231	geckodriver	INFO	geckodriver 0.18.0
+1507710997236	geckodriver	INFO	Listening on 127.0.0.1:49373
+1507710999267	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1507711001807	Marionette	INFO	Listening on port 49379
+1507711002497	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507711008897	Marionette	INFO	New connections will no longer be accepted
+1507711195572	geckodriver	INFO	geckodriver 0.18.0
+1507711195580	geckodriver	INFO	Listening on 127.0.0.1:49394
+1507711197613	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1507711200896	Marionette	INFO	Listening on port 49400
+1507711201516	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507711214580	Marionette	INFO	Ceased listening
+1507711464948	geckodriver	INFO	geckodriver 0.18.0
+1507711464954	geckodriver	INFO	Listening on 127.0.0.1:49421
+1507711466984	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1507711469544	Marionette	INFO	Listening on port 49427
+1507711470268	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507711485713	Marionette	INFO	Ceased listening
+1507714168461	geckodriver	INFO	geckodriver 0.18.0
+1507714168467	geckodriver	INFO	Listening on 127.0.0.1:49452
+1507714170501	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1507714173421	Marionette	INFO	Listening on port 49458
+1507714173778	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507714199036	Marionette	INFO	Ceased listening
+1507714347111	geckodriver	INFO	geckodriver 0.18.0
+1507714347119	geckodriver	INFO	Listening on 127.0.0.1:49468
+1507714349160	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1507714352037	Marionette	INFO	Listening on port 49474
+1507714352435	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507714365317	Marionette	INFO	Ceased listening
+1507714519281	geckodriver	INFO	geckodriver 0.18.0
+1507714519287	geckodriver	INFO	Listening on 127.0.0.1:49484
+1507714521317	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1507714523897	Marionette	INFO	Listening on port 49490
+1507714524601	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507714532679	Marionette	INFO	Ceased listening
+1507714647032	geckodriver	INFO	geckodriver 0.18.0
+1507714647039	geckodriver	INFO	Listening on 127.0.0.1:49502
+1507714649068	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1507714651617	Marionette	INFO	Listening on port 49508
+1507714652353	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507714659079	Marionette	INFO	Ceased listening
+1507714698742	geckodriver	INFO	geckodriver 0.18.0
+1507714698748	geckodriver	INFO	Listening on 127.0.0.1:49521
+1507714700779	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1507714703377	Marionette	INFO	Listening on port 49527
+1507714704168	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507714716141	Marionette	INFO	Ceased listening
+1507714932056	geckodriver	INFO	geckodriver 0.18.0
+1507714932062	geckodriver	INFO	Listening on 127.0.0.1:49540
+1507714934092	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1507714936762	Marionette	INFO	Listening on port 49546
+1507714937370	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507714954075	Marionette	INFO	Ceased listening
+1507715016779	geckodriver	INFO	geckodriver 0.18.0
+1507715016785	geckodriver	INFO	Listening on 127.0.0.1:49560
+1507715018818	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1507715021599	Marionette	INFO	Listening on port 49566
+1507715022094	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507715060633	Marionette	INFO	Ceased listening
+1507715075517	geckodriver	INFO	geckodriver 0.18.0
+1507715075523	geckodriver	INFO	Listening on 127.0.0.1:49579
+1507715077553	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1507715080146	Marionette	INFO	Listening on port 49585
+1507715081068	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507715089330	Marionette	INFO	Ceased listening
+1507716900476	geckodriver	INFO	geckodriver 0.18.0
+1507716900491	geckodriver	INFO	Listening on 127.0.0.1:49603
+1507716902585	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1507716906839	Marionette	INFO	Listening on port 49609
+1507716907089	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507716978475	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1507716990491	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1507717002502	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1507717039234	Marionette	INFO	Ceased listening
+1507717058242	geckodriver	INFO	geckodriver 0.18.0
+1507717058255	geckodriver	INFO	Listening on 127.0.0.1:49617
+1507717060340	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1507717064675	Marionette	INFO	Listening on port 49623
+1507717064975	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507717075024	Marionette	INFO	Ceased listening
+1507717109929	geckodriver	INFO	geckodriver 0.18.0
+1507717109943	geckodriver	INFO	Listening on 127.0.0.1:49633
+1507717112031	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1507717115778	Marionette	INFO	Listening on port 49639
+1507717116144	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507717123890	Marionette	INFO	Ceased listening
+1507717316113	geckodriver	INFO	geckodriver 0.18.0
+1507717316128	geckodriver	INFO	Listening on 127.0.0.1:49649
+1507717318217	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1507717322496	Marionette	INFO	Listening on port 49655
+1507717323715	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507717330445	Marionette	INFO	Ceased listening
+1507720005321	geckodriver	INFO	geckodriver 0.18.0
+1507720005341	geckodriver	INFO	Listening on 127.0.0.1:49675
+1507720007439	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1507720012112	Marionette	INFO	Listening on port 49681
+1507720012938	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507720018214	Marionette	INFO	Ceased listening
+1507720248100	geckodriver	INFO	geckodriver 0.18.0
+1507720248114	geckodriver	INFO	Listening on 127.0.0.1:49691
+1507720250210	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1507720254704	Marionette	INFO	Listening on port 49697
+1507720255875	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507720263874	Marionette	INFO	Ceased listening
+1507720382550	geckodriver	INFO	geckodriver 0.18.0
+1507720382562	geckodriver	INFO	Listening on 127.0.0.1:49713
+1507720384633	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1507720388221	Marionette	INFO	Listening on port 49719
+1507720388498	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507720456018	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+1507720456571	Marionette	INFO	Ceased listening
+1507721054607	geckodriver	INFO	geckodriver 0.18.0
+1507721054618	geckodriver	INFO	Listening on 127.0.0.1:49738
+1507721056676	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1507721060652	Marionette	INFO	Listening on port 49744
+1507721061303	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507721086217	Marionette	INFO	Ceased listening
+1507722286748	geckodriver	INFO	geckodriver 0.18.0
+1507722286765	geckodriver	INFO	Listening on 127.0.0.1:49776
+1507722288839	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1507722293194	Marionette	INFO	Listening on port 49782
+1507722294326	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507722298283	Marionette	INFO	Ceased listening
+1507722351421	geckodriver	INFO	geckodriver 0.18.0
+1507722351435	geckodriver	INFO	Listening on 127.0.0.1:49792
+1507722353526	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1507722357675	Marionette	INFO	Listening on port 49798
+1507722358135	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507722366537	Marionette	INFO	Ceased listening
+1507722491140	geckodriver	INFO	geckodriver 0.18.0
+1507722491152	geckodriver	INFO	Listening on 127.0.0.1:49810
+1507722493220	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1507722497369	Marionette	INFO	Listening on port 49816
+1507722497602	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507722516828	Marionette	INFO	Ceased listening
+1514038468370	geckodriver	INFO	geckodriver 0.18.0
+1514038468380	geckodriver	INFO	Listening on 127.0.0.1:56502
+1514038470426	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1514038500503	geckodriver::marionette	ERROR	Failed to kill browser process
+1514038905798	geckodriver	INFO	geckodriver 0.18.0
+1514038905813	geckodriver	INFO	Listening on 127.0.0.1:56675
+1514038907847	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1514038910146	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1514038910865	Marionette	INFO	Enabled via --marionette
+[Child 18788] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18788] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1514038914196	Marionette	INFO	Listening on port 56681
+1514038914507	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514038914575	Marionette	DEBUG	Register listener.js for window 4294967297
+1514038914629	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514038914649	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514038914650	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514038914651	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967297"
+[Child 20556] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20556] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1514038915051	Marionette	DEBUG	Register listener.js for window 8589934593
+1514038915133	Marionette	DEBUG	Check readyState "uninitialized for "about:blank"
+1514038915156	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/Python/demo/seleniumproject/day04/seleniumday0401demo/02-name.html"
+1514038915158	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/Python/demo/seleniumproject/day04/seleniumday0401demo/02-name.html"
+1514038921387	Marionette	DEBUG	Received DOM event "beforeunload" for "file:///E:/Python/demo/seleniumproject/day04/seleniumday0401demo/02-name.html"
+1514038921391	Marionette	DEBUG	Received DOM event "pagehide" for "file:///E:/Python/demo/seleniumproject/day04/seleniumday0401demo/02-name.html"
+1514038921391	Marionette	DEBUG	Received DOM event "unload" for "file:///E:/Python/demo/seleniumproject/day04/seleniumday0401demo/02-name.html"
+1514038921398	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/Python/demo/seleniumproject/day04/seleniumday0401demo/02-name.html"
+1514038921401	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/Python/demo/seleniumproject/day04/seleniumday0401demo/02-name.html"
+1514038921413	Marionette	INFO	New connections will no longer be accepted
+1514038941615	geckodriver	INFO	geckodriver 0.18.0
+1514038941626	geckodriver	INFO	Listening on 127.0.0.1:56734
+1514038943660	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1514038944026	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1514038944789	Marionette	INFO	Enabled via --marionette
+[Child 23420] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23420] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1514038948916	Marionette	INFO	Listening on port 56740
+1514038948975	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514038949055	Marionette	DEBUG	Register listener.js for window 6442450945
+1514038949110	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514038949175	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514038949175	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514038949176	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "6442450945"
+[Parent 23136] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23188] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23188] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1514038952333	Marionette	DEBUG	Register listener.js for window 8589934593
+1514038952475	Marionette	DEBUG	Check readyState "complete for "file:///E:/Python/demo/seleniumproject/day04/seleniumday0401demo/03-linktext.html"
+1514038954606	Marionette	DEBUG	Received DOM event "beforeunload" for "file:///E:/Python/demo/seleniumproject/day04/seleniumday0401demo/03-linktext.html"
+1514038954609	Marionette	DEBUG	Received DOM event "pagehide" for "file:///E:/Python/demo/seleniumproject/day04/seleniumday0401demo/03-linktext.html"
+1514038954609	Marionette	DEBUG	Received DOM event "unload" for "file:///E:/Python/demo/seleniumproject/day04/seleniumday0401demo/03-linktext.html"
+1514038954627	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/Python/demo/seleniumproject/day04/seleniumday0401demo/01-id.html"
+1514038954629	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/Python/demo/seleniumproject/day04/seleniumday0401demo/01-id.html"
+1514038956650	Marionette	DEBUG	Received DOM event "beforeunload" for "file:///E:/Python/demo/seleniumproject/day04/seleniumday0401demo/01-id.html"
+1514038956653	Marionette	DEBUG	Received DOM event "pagehide" for "file:///E:/Python/demo/seleniumproject/day04/seleniumday0401demo/01-id.html"
+1514038956653	Marionette	DEBUG	Received DOM event "unload" for "file:///E:/Python/demo/seleniumproject/day04/seleniumday0401demo/01-id.html"
+1514038956661	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/Python/demo/seleniumproject/day04/seleniumday0401demo/03-linktext.html"
+1514038956665	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/Python/demo/seleniumproject/day04/seleniumday0401demo/03-linktext.html"
+1514038958744	Marionette	DEBUG	Received DOM event "beforeunload" for "file:///E:/Python/demo/seleniumproject/day04/seleniumday0401demo/03-linktext.html"
+1514038958747	Marionette	DEBUG	Received DOM event "pagehide" for "file:///E:/Python/demo/seleniumproject/day04/seleniumday0401demo/03-linktext.html"
+1514038958748	Marionette	DEBUG	Received DOM event "unload" for "file:///E:/Python/demo/seleniumproject/day04/seleniumday0401demo/03-linktext.html"
+1514038958762	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/Python/demo/seleniumproject/day04/seleniumday0401demo/02-name.html"
+1514038958764	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/Python/demo/seleniumproject/day04/seleniumday0401demo/02-name.html"
+[Parent 23136] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 23136] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1514038962426	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 23504] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23504] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20712] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20712] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1514038962436	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1514038967890	geckodriver	INFO	geckodriver 0.18.0
+1514038967900	geckodriver	INFO	Listening on 127.0.0.1:56840
+1514038969919	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1514038970597	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1514038971366	Marionette	INFO	Enabled via --marionette
+[Child 22816] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22816] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1514038974913	Marionette	INFO	Listening on port 56846
+1514038975183	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514038975229	Marionette	DEBUG	Register listener.js for window 4294967297
+1514038975262	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514038975279	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514038975280	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514038975280	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967297"
+[Parent 19532] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22592] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22592] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1514038978407	Marionette	DEBUG	Register listener.js for window 8589934593
+1514038978479	Marionette	DEBUG	Check readyState "uninitialized for "about:blank"
+1514038978492	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/Python/demo/seleniumproject/day04/seleniumday0401demo/04-partiallinktext.html"
+1514038978504	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/Python/demo/seleniumproject/day04/seleniumday0401demo/04-partiallinktext.html"
+1514038980592	Marionette	DEBUG	Received DOM event "beforeunload" for "file:///E:/Python/demo/seleniumproject/day04/seleniumday0401demo/04-partiallinktext.html"
+1514038980596	Marionette	DEBUG	Received DOM event "pagehide" for "file:///E:/Python/demo/seleniumproject/day04/seleniumday0401demo/04-partiallinktext.html"
+1514038980596	Marionette	DEBUG	Received DOM event "unload" for "file:///E:/Python/demo/seleniumproject/day04/seleniumday0401demo/04-partiallinktext.html"
+1514038980614	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/Python/demo/seleniumproject/day04/seleniumday0401demo/01-id.html"
+1514038980616	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/Python/demo/seleniumproject/day04/seleniumday0401demo/01-id.html"
+1514038984660	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 23256] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23256] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23484] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1514038984668	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1514038990280	geckodriver	INFO	geckodriver 0.18.0
+1514038990290	geckodriver	INFO	Listening on 127.0.0.1:56901
+1514038992322	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1514038993040	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1514038993865	Marionette	INFO	Enabled via --marionette
+[Child 22544] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22544] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1514038997274	Marionette	INFO	Listening on port 56908
+1514038997649	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514038997704	Marionette	DEBUG	Register listener.js for window 4294967297
+1514038997754	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514038997768	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514038997768	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514038997769	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967297"
+[Child 23328] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23328] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1514038998239	Marionette	DEBUG	Register listener.js for window 8589934593
+1514038998344	Marionette	DEBUG	Check readyState "uninitialized for "about:blank"
+1514038998371	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/Python/demo/seleniumproject/day04/seleniumday0401demo/05-classname.html"
+1514038998380	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/Python/demo/seleniumproject/day04/seleniumday0401demo/05-classname.html"
+1514039000565	Marionette	DEBUG	Received DOM event "beforeunload" for "file:///E:/Python/demo/seleniumproject/day04/seleniumday0401demo/05-classname.html"
+1514039000567	Marionette	DEBUG	Received DOM event "pagehide" for "file:///E:/Python/demo/seleniumproject/day04/seleniumday0401demo/05-classname.html"
+1514039000568	Marionette	DEBUG	Received DOM event "unload" for "file:///E:/Python/demo/seleniumproject/day04/seleniumday0401demo/05-classname.html"
+1514039000575	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/Python/demo/seleniumproject/day04/seleniumday0401demo/05-classname.html"
+1514039000578	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/Python/demo/seleniumproject/day04/seleniumday0401demo/05-classname.html"
+1514039004014	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 21536] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21536] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23344] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23344] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1514039004018	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1514039011567	geckodriver	INFO	geckodriver 0.18.0
+1514039011587	geckodriver	INFO	Listening on 127.0.0.1:56964
+1514039013617	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1514039013996	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1514039014748	Marionette	INFO	Enabled via --marionette
+[Child 23108] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1514039017672	Marionette	INFO	Listening on port 56970
+1514039017794	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514039017849	Marionette	DEBUG	Register listener.js for window 4294967297
+1514039017887	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514039017906	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514039017907	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514039017908	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967297"
+1514039018913	Marionette	DEBUG	Register listener.js for window 8589934593
+1514039019012	Marionette	DEBUG	Check readyState "uninitialized for "about:blank"
+1514039019035	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/Python/demo/seleniumproject/day04/seleniumday0401demo/06-tagname.html"
+1514039019043	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/Python/demo/seleniumproject/day04/seleniumday0401demo/06-tagname.html"
+1514039021141	Marionette	DEBUG	Received DOM event "beforeunload" for "file:///E:/Python/demo/seleniumproject/day04/seleniumday0401demo/06-tagname.html"
+1514039021144	Marionette	DEBUG	Received DOM event "pagehide" for "file:///E:/Python/demo/seleniumproject/day04/seleniumday0401demo/06-tagname.html"
+1514039021144	Marionette	DEBUG	Received DOM event "unload" for "file:///E:/Python/demo/seleniumproject/day04/seleniumday0401demo/06-tagname.html"
+1514039021159	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///E:/Python/demo/seleniumproject/day04/seleniumday0401demo/01-id.html"
+1514039021166	Marionette	DEBUG	Received DOM event "pageshow" for "file:///E:/Python/demo/seleniumproject/day04/seleniumday0401demo/01-id.html"
+1514039034280	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1514039034282	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 20768] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20768] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1514039044523	geckodriver	INFO	geckodriver 0.18.0
+1514039044533	geckodriver	INFO	Listening on 127.0.0.1:57035
+1514039046579	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1514039047427	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files%20(x86)/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1514039048137	Marionette	INFO	Enabled via --marionette
+1514039051333	Marionette	INFO	Listening on port 57041
+1514039051872	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514039051926	Marionette	DEBUG	Register listener.js for window 4294967297
+1514039051967	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514039072992	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514039072994	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514039072994	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514039073019	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "about:neterror?e=netTimeout&u=http%3A//192.168.23.128%3A8060/&c=UTF-8&f=regular&d=192.168.23.128%20%E7%9A%84%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%93%8D%E5%BA%94%E6%97%B6%E9%97%B4%E8%BF%87%E9%95%BF%E3%80%82"
+[Child 22964] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22964] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1514039076457	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1514039076475	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 20680] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 20680] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 15964] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

@@ -1,0 +1,343 @@
+1、一个最简单的网页：demo01.html
+<html>
+      <head>
+       	<title>我的第一个网页</title>
+      </head>
+      <body>
+     	 这是我的第一个网页!
+      </body>
+</html> 
+
+2、标记属性示例：demo02.html
+<html>
+      <head>
+       	<title>我的第一个网页</title>
+      </head>
+      <body  text="red" bgcolor=blue>
+     	 这是我的第一个网页!
+      </body>
+</html> 
+
+3、头部文件案例：demo03.html
+<html>
+      <head>
+       	<title>meta元信息案例</title>
+		 <meta  name="Keywords" content="计算机、IT、软件测试">
+		 <meta  name="Description" content="这是一个软件测试学习的专业网站">
+      </head>
+      <body>
+     	 这是我的第一个网页!
+      </body>
+</html> 
+
+4、超级链接案例：demo04.html
+<html>
+	<head>
+		<title>超级链接</title>
+	</head>
+	<body>
+		<a href="demo01.html">链接到demo01</a> 
+	<br>
+		<a href=demo02.html target=_blank>链接到demo02</a> 
+	<br>
+		<a href="http://www.baidu.com">链接到百度</a> 
+	<br>
+		<a href="http://www.tedu.cn" target="_blank">访问达内官网</a> 
+
+	</body>
+</html>
+
+5、图片案例：demo05.html
+<html>
+	<head>
+		<title>图片案例</title>
+	</head>
+	<body>
+		<a href="demo01.html"><img src="picture/1.jpg"></a> 
+	<br>
+	<br>
+		<a href="http://www.tedu.cn" target="_blank">
+			<img src="picture/2.jpg">
+		</a> 
+
+	</body>
+</html>
+
+6、列表案例：demo06.html
+<html>
+	<head>
+		<title>列表案例</title>
+	</head>
+	<body>
+		<ul>
+			<li>足球</li>
+			<li>篮球</li>
+			<li>排球</li>
+		</ul>
+
+		<ol type=i>
+			<li>地理</li>
+			<li>历史</li>
+			<li>生物</li>
+		</ol>
+	</body>
+</html>
+
+7、表格案例：demo07.html
+<html>
+	<head>
+		<title>表格案例</title>
+	</head>
+	<body>
+		<table border=1 height=400 width=400>
+      		<tr>
+			<th>学号</th>
+			<th>姓名</th>
+			<th>住址</th>
+     		</tr>
+      		<tr align=center>
+			<td>001</td>
+			<td>小明</td>
+			<td>北京</td>
+      		</tr>
+		<tr>
+			<td>002</td>
+			<td>小刚</td>
+			<td>上海</td>
+      		</tr>
+		<tr>
+			<td>003</td>
+			<td>小红</td>
+			<td>天津</td>
+      		</tr>
+		</table> 
+	</body>
+</html>
+
+8、结构表格案例：demo08.html
+<html>
+	<head>
+		<title>表格案例</title>
+	</head>
+	<body>
+		<table border=1 height=400 width=400>
+			<thead>
+      				<tr>
+					<th>学号</th>
+					<th>姓名</th>
+					<th>住址</th>
+     				</tr>
+			</thead>
+			<tbody>
+      				<tr align=center>
+					<td>001</td>
+					<td>小明</td>
+					<td>北京</td>
+      				</tr>
+				<tr>
+					<td>002</td>
+					<td>小刚</td>
+					<td>上海</td>
+      				</tr>
+				<tr>
+					<td>003</td>
+					<td>小红</td>
+					<td>天津</td>
+      				</tr>
+			<tbody>
+		</table> 
+	</body>
+</html>
+
+
+9、图层案例：demo09.html
+<html>
+	<head>
+		<title>图层案例</title>
+	</head>
+	<body>
+		<div id="Layer1" style="position:absolute;
+			left:50px;top:20px;
+			width:400px;height:500px;
+			background-color:yellow;">
+			<ul>
+				<li>中国</li>
+				<li>俄罗斯</li>
+				<li>德国</li>
+			</ul>
+		</div>
+		<div id="Layer2" style="position:absolute;
+			left:300px;top:100px;
+			width:400px;height:500px;
+			background-color:blue;">
+			<table border=1 width=200>
+				<tr>
+					<th>编号</th>
+					<th>名称</th>
+					<th>学分</th>
+				</tr>
+				<tr>
+					<td>001</td>
+					<td>Python</td>
+					<td>5</td>
+				</tr>
+				<tr>
+					<td>002</td>
+					<td>Selenium</td>
+					<td>6</td>
+				</tr>
+			</table>
+		</div>
+
+</html>
+
+10、文本框案例：demo10.html
+<html>
+	<head>
+		<title>文本框案例</title>
+	</head>
+	<body>
+		<form action="" method=post>
+			<ul>
+				<li>文本框案例</li>
+				<li>姓名：<input type=text id=username name=username 
+					size=20 maxlength=20 value=张三></li>
+				<li>密码：<input type=password id=password name=password size=20></li>
+			</ul>
+		</form>
+	</body>
+</html>
+
+
+11、按钮案例：demo11.html
+<html>
+	<head>
+		<title>按钮案例</title>
+	</head>
+	<body>
+		<form action="" method=post>
+			<ul>
+				<li>按钮案例</li>
+				<li>姓名：<input type=text id=username name=username size=20></li>
+				<li>密码：<input type=password id=password name=password size=20></li>
+				<input type=submit id=submit name=submit value=提交>
+				<input type=reset id=reset name=reset value=重置>
+			</ul>
+		</form>
+	</body>
+</html>
+
+12、单选按钮案例：demo12.html
+<html>
+	<head>
+		<title>单选按钮案例</title>
+	</head>
+	<body>
+		<form action="" method=post>
+			<ul>
+				<li>请选择性别：
+				<input type="radio" id=sex1 name="sex" value="male" checked>男
+				<input type="radio" id=sex2 name="sex" value="female">女
+				</li>
+			</ul>
+			<ul>
+				<li>支付方式：
+				<input type="radio" id=p1 name="pay">网银
+				<input type="radio" id=p2 name="pay">微信
+				<input type="radio" id=p3 name="pay">支付宝
+				<input type="radio" id=p3 name="pay">百度钱包
+				</li>
+			</ul>
+		</form>
+	</body>
+</html>
+
+13、复选框案例： demo13.html
+<html>
+	<head>
+		<title>复选框案例</title>
+	</head>
+	<body>
+		<form action="" method=post>
+			<ul>
+				<li>请选择爱好：
+				<input type=checkbox id=m1 name=音乐 value=music checked>音乐
+				<input type=checkbox id=m2 name=爬山 value=mounting>爬山
+				<input type=checkbox id=m3 name=旅游 value=travel>旅游 
+				<input type=checkbox id=m4 name=阅读 value=reading>阅读 
+				</li>
+			</ul>
+		</form>
+	</body>
+</html>
+
+14、下拉列表案例：  demo14.html
+<html>
+	<head>
+		<title>下拉列表案例</title>
+	</head>
+	<body>
+		<form action="" method=post>
+			<ul>
+			<li>请选择城市：
+				<select id=s1 name=city> 
+  					<option value=beijing>北京</option>
+  					<option value=shanghai selected>上海</option>
+  					<option value=tianjin>天津</option>
+					<option value=chognqng>重庆</option>
+				</select> 
+			</li><br><br><br>
+			请选择民族：
+			<li>
+				<select  id=s2 name=民族 size=4 multiple> 
+					<option value=han selected>汉族</option>
+					<option value=hui>回族</option>
+					<option value=man>满族</option>
+					<option value=weiwuer>维吾尔族</option>
+					<option value=hasake>哈萨克</option>
+				</select>
+			</li>
+			</ul>
+	</body>
+</html>
+
+15、文本域案例：demo15.html
+<html>
+	<head>
+		<title>文本域案例</title>
+	</head>
+	<body>
+		<form action="" method=post>
+			<ul>
+			<li>请留言：
+			</li>
+			<li>
+			<textarea id=comments name=comments rows=10 cols=20>请您留言</textarea>
+			</li>
+			</ul>
+		</form>
+	</body>
+</html>
+16、静态文本案例：demo16.html
+<html>
+	<head>
+		<title>静态文本案例</title>
+	</head>
+	<body>
+		<form action="" method=post>
+			<label id=qingliuyan name=qingliuyan>请留言</label>
+			<br>
+			<textarea id=comments name=comments rows=10 cols=20>请您留言</textarea>
+		</form>
+	</body>
+</html>
+
+
+
+
+
+
+
+
+
+

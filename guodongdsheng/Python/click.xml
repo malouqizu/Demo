@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<testcase-def logicName="" description="" eventsEnabled="false" radioEnabled="false" kernelEnabled="false" memoryEnabled="false" cpuEnabled="false" monkeyEnabled="false">
+	<var name="MUTDevice">${deviceId0}</var>
+<init>
+
+</init>
+
+<main>
+	<action name="Click" sleep="500" timeout="60000" suppress="false" >
+		<param name="deviceId">${MUTDevice}</param>
+		<param name="coordinate">200,300</param>
+		<param name="shiftX">0</param>
+		<param name="shiftY">0</param>
+		<param name="snapshot">true</param>
+	</action>
+
+</main>
+
+<finally>
+
+</finally>
+
+</testcase-def>

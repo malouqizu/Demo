@@ -1,0 +1,2 @@
+1、修改datastore.asp文件中，数据库连接路径
+2、主页为login.asp，用户名admin，密码12
