@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+#https://blog.csdn.net/wendaomudong_l2d4/article/details/79688551
+#https://www.cnblogs.com/zzzhfo/archive/2018/04/08/8745222.html
 import logging.config
 import logging
 import sys
