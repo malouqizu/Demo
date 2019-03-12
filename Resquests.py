@@ -2,9 +2,9 @@
 import requests
 import json
 
-params = {'house_code': '106100872048'}
+payload = {'house_code': '106100872048'}
 api='api/gethousequestionlist/'
-rg = requests.get('http://test5-i.carpo.ke.com/'+api, params)
+rg = requests.get('http://test5-i.carpo.ke.com/'+api, params=payload)
 print(rg.raise_for_status())
 print(rg.ok)
 print(rg.encoding)
